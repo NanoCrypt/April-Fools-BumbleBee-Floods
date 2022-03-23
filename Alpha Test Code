@@ -1,1 +1,2 @@
-<img scr="BumbleBee Software Download (Fake).pxz">
+alert("Allow BumbleBee software Download?");
+alert("Wait 30 seconds, Downloading...);
