@@ -1,2 +1,2 @@
 alert("Allow BumbleBee software Download?");
-alert("Wait 30 seconds, Downloading...");
+alert("Wait 30 seconds, Downloading..."");
