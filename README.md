@@ -10,3 +10,7 @@ Under construction, will be usable April 1st
 @NanoCrypt
 
 @glich2
+
+# Instructions
+
+Check the wiki, page 2
