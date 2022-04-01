@@ -1,4 +1,4 @@
  // BumbleBee Software Script
 alert("Allow BumbleBee software Download?");
-<img scr=blob:chrome-untrusted://media-app/7c5bd650-9255-40ba-89b7-3fbddf82e7fb
+<img scr="blob:chrome-untrusted://media-app/7c5bd650-9255-40ba-89b7-3fbddf82e7fb"
 alert("Can take up to 30 seconds");
